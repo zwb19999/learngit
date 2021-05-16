@@ -1,1 +1,2 @@
-git is version
+git is version system
+git is free software
